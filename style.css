@@ -6,13 +6,23 @@ nav{
     background-color:black;
     color: white;
     padding: 10px;
+    display: flex;
     
 }
 .brands{
 
     border-right:  1px solid white;
-    margin: 15px;
+    padding-right: 50px;
 }
-.d1{
-    margin: 20px;
+#b1{
+    
+    padding-right: 1000px;
+    display: inline-block;
 }
+.b2{
+    padding-right: 30px;
+    border-right:1px solid white;
+}
+
+
+
